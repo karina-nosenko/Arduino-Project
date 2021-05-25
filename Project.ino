@@ -13,8 +13,8 @@
 
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "karinapc"
-#define WLAN_PASS       "12345678"
+#define WLAN_SSID       "YOUR_WIFI_NAME"
+#define WLAN_PASS       "YOUR_WIFI_PASSWORD"
 
 /************************* Adafruit.io Setup *********************************/
 
